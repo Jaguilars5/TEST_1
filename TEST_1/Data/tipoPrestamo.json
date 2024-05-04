@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"descripcion": "Hipotecario"
+	},
+	{
+		"id": 2,
+		"descripcion": "Comercial"
+	},
+	{
+		"id": 3,
+		"descripcion": "Emprendimiento"
+	}
+]
